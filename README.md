@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho com front-end Angular & back-end Java;
 - 🌱 Estudando: Java & Angular;
-- 👩‍🎓 Cursando: Analise e desenvolvimento de sistema;
+- 👩‍🎓 Formada em Analise e desenvolvimento de sistema;
 - 🧰 Visual Studio Code,Git,Eclipse;
 
 <div>

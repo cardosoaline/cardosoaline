@@ -1,7 +1,7 @@
 ## Olá Sou Aline Cardoso 😊
 
-- 🔭 Hoje trabalho com front-end Angular & back-end Java;
-- 🌱 Estudando: Java & Angular;
+- 🔭 Hoje trabalho com front-end Angular;
+- 🌱 Estudando: Angular;
 - 👩‍🎓 Analista e desenvolvedora de sistema;
 - 🧰 Visual Studio Code,Git,Eclipse;
 
